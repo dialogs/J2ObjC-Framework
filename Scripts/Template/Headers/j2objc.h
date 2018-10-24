@@ -11,7 +11,7 @@
 #include "IOSClass.h"
 #include "IOSObjectArray.h"
 #include "IOSPrimitiveArray.h"
-#include "IOSReflection.h"
+#include "IOSMetadata.h"
 #include "J2ObjC_common.h"
 #include "NSCopying+JavaCloneable.h"
 #include "NSDataInputStream.h"
